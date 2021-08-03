@@ -1,0 +1,46 @@
+.menu-item{
+    color: rgb(174, 19, 235);
+
+}
+.menu-item:link{
+    color: blue;
+}
+.menu-item:visited{
+    color: rgb(20, 147, 220);
+}
+.menu-item:hover{
+    color: red;
+}
+
+button{
+    padding: 8px 16px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    box-shadow: 0px 4px 5px gray;
+
+
+}
+.button-face{
+   background-color: #3b5993;
+}
+.button-google{
+    background-color: #dd4b3d;
+}
+.button-git{
+   background-color: #000000;
+}
+.label{
+   padding-left: 8px;
+}
+.img{
+    background-color: rgb(159, 170, 148);
+    margin-top: 24px;
+    padding: 16px;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(220, 127, 20);
+    text-shadow: 2px 2px darkgrey;
+}
