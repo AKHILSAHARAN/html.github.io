@@ -44,3 +44,7 @@ h1{
     color: rgb(220, 127, 20);
     text-shadow: 2px 2px darkgrey;
 }
+
+h2{
+    text-shadow: 2px 2px gray ;
+}
